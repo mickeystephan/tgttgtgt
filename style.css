@@ -1,0 +1,41 @@
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+input {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+
+}
+
+button{
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#titleInput{
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
